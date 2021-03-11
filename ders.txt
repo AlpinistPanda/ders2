@@ -4,4 +4,6 @@ Machine Learning in Architecture
 2. Versiyon Kontrol
 3. Datascraping
 4. Lineer Regression
-5. Unsupervised 
+5. Unsupervised
+6. Supervised
+7. Generative
