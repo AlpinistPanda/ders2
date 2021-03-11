@@ -3,3 +3,5 @@ Machine Learning in Architecture
 1. Intro
 2. Versiyon Kontrol
 3. Datascraping
+4. Lineer Regression
+5. Unsupervised 
