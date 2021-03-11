@@ -7,3 +7,6 @@ Machine Learning in Architecture
 5. Unsupervised
 6. Supervised
 7. Generative
+
+Dersi Alanlar:
+Ozgun Balaban
