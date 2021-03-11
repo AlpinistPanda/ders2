@@ -1,1 +1,5 @@
 Machine Learning in Architecture
+
+1. Intro
+2. Versiyon Kontrol
+3. Datascraping
