@@ -11,3 +11,4 @@ Machine Learning in Architecture
 Dersi Alanlar:
 Ozgun Balaban
 Mustafa Koç
+
