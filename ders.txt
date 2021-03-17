@@ -10,3 +10,4 @@ Machine Learning in Architecture
 
 Dersi Alanlar:
 Özgün Balaban
+Nijat Mahamaliyev
