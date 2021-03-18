@@ -10,4 +10,5 @@ Machine Learning in Architecture
 
 Dersi Alanlar:
 Özgün Balaban
-+Nurşah Odabaş
+Sinem Kırkan
+Nurşah Odabaş
